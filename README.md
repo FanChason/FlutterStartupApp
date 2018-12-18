@@ -16,4 +16,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 Effect gif：
+
 ![flutter Startup.gif](https://upload-images.jianshu.io/upload_images/1432381-f067c894f89d6042.gif?imageMogr2/auto-orient/strip)
